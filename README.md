@@ -1,6 +1,15 @@
 # debhub
 A collection of deb files
 
+# Category
+
+- [Audio](https://github.com/jakbin/debhub#audio)
+- [Education](https://github.com/jakbin/debhub#education)
+- [Graphics](https://github.com/jakbin/debhub#graphics)
+- [Internet](https://github.com/jakbin/debhub#internet)
+- [Programming](https://github.com/jakbin/debhub#programming)
+- [System&Tools](https://github.com/jakbin/debhub#systemtools)
+
 
 ## Audio
 
