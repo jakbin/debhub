@@ -43,14 +43,14 @@ Subcategory : whiteboard
   
   ## Internet
 
-- [Mailspring](https://github.com/Foundry376/Mailspring) : A beautiful, fast and fully open source mail client for Mac, Windows and Linux. \
-Subcategory : email cleint
-
 - [brave-browser](https://github.com/brave/brave-browser) : Next generation Brave browser for Android, Linux, macOS, Windows.\
 Subcategory : browser
 
 - [elza](https://github.com/elzabrowser/elza) : Private, fast and minimal web browser based on electron with built-in tor.\
 Subcategory : browser
+
+- [Mailspring](https://github.com/Foundry376/Mailspring) : A beautiful, fast and fully open source mail client for Mac, Windows and Linux. \
+Subcategory : email cleint
 
 - [meilisearch](https://github.com/meilisearch/meilisearch) : Powerful, fast, and an easy to use search engine\
 Subcategory : search engine
@@ -65,9 +65,6 @@ Subcategory : browser
 Subcategory : torrent
 
 ## Programming
-
-- [Zettlr](https://github.com/Zettlr/Zettlr) : A Markdown Editor for the 21st century.\
-Subcategory : editor
 
 - [atom](https://github.com/atom/atom) : The hackable text editor\
 Subcategory : editor
@@ -87,16 +84,10 @@ Subcategory : terminal text editor
 - [vscodium](https://github.com/VSCodium/vscodium) : Free/Libre Open Source Software Binaries of VS Code\
 Subcategory : editor
 
+- [Zettlr](https://github.com/Zettlr/Zettlr) : A Markdown Editor for the 21st century.\
+Subcategory : editor
+
 ## System&Tools
-
-- [ Stacer](https://github.com/oguzhaninan/Stacer) : Linux System Optimizer and Monitoring \
-Subcategory : Monitoring
-
-- [RustScan](https://github.com/RustScan/RustScan) : 🤖 The Modern Port Scanner 🤖\
-Subcategory : Port Scanner
-
-- [Weylus](https://github.com/H-M-H/Weylus) : Use your tablet as graphic tablet/touch screen on your computer.\
-Subcategory : mirror screen
 
 - [caddy](https://github.com/caddyserver/caddy) : Fast, multi-platform web server with automatic HTTPS\
 Subcategory : web server
@@ -173,4 +164,11 @@ Subcategory : converter
 - [xclicker](https://github.com/robiot/xclicker) : XClicker - Fast gui autoclicker for x11 linux desktops\
 Subcategory : autoclicker
 
+- [RustScan](https://github.com/RustScan/RustScan) : 🤖 The Modern Port Scanner 🤖\
+Subcategory : Port Scanner
 
+- [ Stacer](https://github.com/oguzhaninan/Stacer) : Linux System Optimizer and Monitoring \
+Subcategory : Monitoring
+
+- [Weylus](https://github.com/H-M-H/Weylus) : Use your tablet as graphic tablet/touch screen on your computer.\
+Subcategory : mirror screen
